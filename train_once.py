@@ -11,7 +11,6 @@ rec = EmotionRecognizer(
     verbose=1
 )
 
-print("Training model...")
 rec.train()
 
 joblib.dump(rec, "emotion_model.pkl")
