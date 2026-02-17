@@ -5,35 +5,25 @@ The app is built using Python, classical ML techniques, and deployed using Strea
 
 ## Demo
 
-🎧 Upload a WAV file and get emotion predictions instantly through an interactive web interface.
+Upload a WAV file and get emotion predictions instantly through an interactive web interface.
 
 ## Features
 
-Upload WAV audio files
-
-Extract audio features (MFCC, Chroma, Mel)
-
-Predict emotions such as: Happy, Sad, Neutral
-
-Emotion-wise probability distribution
-
-Clean and beginner-friendly UI using Streamlit
+-Upload WAV audio files
+-Extract audio features (MFCC, Chroma, Mel)
+-Predict emotions such as: Happy, Sad, Neutral
+-Emotion-wise probability distribution
+-Clean and beginner-friendly UI using Streamlit
 
 ## Tech Stack
 
-Python
-
-Streamlit
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
-Librosa
-
-SoundFile
+-Python
+-Streamlit
+-NumPy
+-Pandas
+-Scikit-learn
+-Librosa
+-SoundFile
 
 ## Project Structure
 .
