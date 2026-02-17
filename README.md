@@ -54,6 +54,3 @@ This project is deployed using Streamlit Community Cloud and connected directly 
 Shubhi Singh
 B.Tech (CSE) | Machine Learning & Python Enthusiast
 
-## License
-
-MIT License
